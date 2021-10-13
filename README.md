@@ -1,0 +1,3 @@
+## Pipelined fixed point *log2(x)* computation in Verilog.
+
+Description coming soon...
