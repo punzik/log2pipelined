@@ -1,4 +1,5 @@
 set term pngcairo font 'Iosevka,11' size 640,480
+set grid
 
 # ------------------------------ PLOT FULL ------------------------------------
 set output 'log2lin.png'
